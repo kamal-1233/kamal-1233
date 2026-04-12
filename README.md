@@ -95,11 +95,7 @@ I'm a data-driven professional transitioning into a full-time **Data Analyst** r
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamal-1233&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamal-1233&theme=dark&hide_border=false" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamal-1233&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
