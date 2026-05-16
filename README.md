@@ -30,7 +30,7 @@ I'm a data-driven professional transitioning into a full-time **Data Analyst** r
 ### 📊 Social Media & Content Analytics &nbsp;|&nbsp; Self-Managed
 **April 2025 – Present**
 
-- Tracked channel KPIs using **YouTube Studio analytics** — views, watch time, CTR, and audience retention
+- Tracked channel KPIs using **YouTube Studio analytics** — views, watch time, CTR Rate, and audience retention
 - Applied data-driven content strategy, improving engagement metrics through A/B testing of titles, thumbnails, and post timing
 - Translated audience behavior insights into actionable growth decisions, consistently optimizing for reach and performance
 
