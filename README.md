@@ -52,7 +52,7 @@ I'm a data-driven professional transitioning into a full-time **Data Analyst** r
 
 - Reduced user-reported UI defects by **25%**, improving interface stability and overall user satisfaction
 - Built a live notification system using **SSE and Redis** for real-time operational alerts and automated reporting
-- Integrated APIs and applied connection pooling for measurable backend performance gains
+- Integrated APIs and applied connection pooling for measurable backend performance gains.
 
 ---
 
